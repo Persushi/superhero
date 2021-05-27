@@ -1,0 +1,13 @@
+.login-form{
+    display: flex;
+    flex-direction: column;
+    width: 100vw;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+form.login-form{
+    width: 300px;
+    height: 400px;
+    background-color: rgba(121, 219, 219, 0.788);
+}

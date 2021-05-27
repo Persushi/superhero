@@ -1,0 +1,84 @@
+
+.charCard{
+    padding: 0;
+    background-size: 70px 70px, cover;
+    background-repeat: no-repeat, no-repeat;
+    height: 375px;
+    max-width: 250px;
+    margin: 10px;
+    color:white;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    border-radius: 15px;
+    box-shadow: 13px 10px 13px -2px rgba(0,0,0,0.75);
+-webkit-box-shadow: 13px 10px 13px -2px rgba(0,0,0,0.75);
+-moz-box-shadow: 13px 10px 13px -2px rgba(0,0,0,0.75);
+transition: all .5s;
+}
+
+.charCard:hover{
+    transform: scale(1.1);
+    box-shadow: 13px 10px 45px -2px rgba(0,0,0,0.75);
+-webkit-box-shadow: 13px 10px 45px -2px rgba(0,0,0,0.75);
+-moz-box-shadow: 13px 10px 45px -2px rgba(0,0,0,0.75);   
+}
+.cardName{
+    padding: 2px;
+    font-size: 32px;
+    transition: all 0.5s;
+}
+.cardName::after{
+    font-size: 0;
+    display: flex;
+    content: 'Ver detalles';
+    opacity: 0;
+    transition: all 0.5s;
+    color:white;
+}
+
+.cardName:hover::after{
+    font-size: 24px;
+   opacity: 1;
+}
+.close{
+    display: flex;
+    flex-direction: row-reverse;
+}
+.good{
+    border: #ffc107 12px solid;
+}
+.cardSeparator{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.788);
+    padding: 5px;
+}
+span.good{
+    border: none;
+    color: #ffc107;
+}
+.btn{
+    font-size: 24px;
+}
+span.bad {
+    border: none;
+    color: #dc3545
+}
+span.neutral{
+    border: none;
+    color: gray
+}
+.bad {
+    border: #dc3545 12px solid;
+}
+
+.neutral {
+    border: gray 12px solid
+}
+.stats{
+    width: 200px;
+}
