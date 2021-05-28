@@ -16,3 +16,5 @@ En la pantalla inicial se puede desplegar el equipo de hasta 6 personajes, máxi
 La Navbar incluye el input de busqueda por nombre
 
 Los detalles llevan a un componente con más datos de cada personaje
+
+Se usó algo de Bootstrap para el diseño responsive
