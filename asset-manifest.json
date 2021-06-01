@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/superhero/static/css/main.266ac3cd.chunk.css",
+    "main.js": "/superhero/static/js/main.ddca0537.chunk.js",
+    "main.js.map": "/superhero/static/js/main.ddca0537.chunk.js.map",
+    "runtime-main.js": "/superhero/static/js/runtime-main.17443f55.js",
+    "runtime-main.js.map": "/superhero/static/js/runtime-main.17443f55.js.map",
+    "static/js/2.6becb097.chunk.js": "/superhero/static/js/2.6becb097.chunk.js",
+    "static/js/2.6becb097.chunk.js.map": "/superhero/static/js/2.6becb097.chunk.js.map",
+    "static/js/3.da6f2c7f.chunk.js": "/superhero/static/js/3.da6f2c7f.chunk.js",
+    "static/js/3.da6f2c7f.chunk.js.map": "/superhero/static/js/3.da6f2c7f.chunk.js.map",
+    "index.html": "/superhero/index.html",
+    "static/css/main.266ac3cd.chunk.css.map": "/superhero/static/css/main.266ac3cd.chunk.css.map",
+    "static/js/2.6becb097.chunk.js.LICENSE.txt": "/superhero/static/js/2.6becb097.chunk.js.LICENSE.txt",
+    "static/media/DC.9ef251fe.png": "/superhero/static/media/DC.9ef251fe.png",
+    "static/media/index.css": "/superhero/static/media/bg.0e6bdbd9.jpg",
+    "static/media/darkhorse.83bd712d.png": "/superhero/static/media/darkhorse.83bd712d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.17443f55.js",
+    "static/js/2.6becb097.chunk.js",
+    "static/css/main.266ac3cd.chunk.css",
+    "static/js/main.ddca0537.chunk.js"
+  ]
+}
